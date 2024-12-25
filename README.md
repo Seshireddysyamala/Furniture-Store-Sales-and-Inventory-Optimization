@@ -1,5 +1,4 @@
-# Furniture-Store-Sales-and-Inventory-Optimization
-Furniture Store Sales and Inventory Analysis
+Furniture Store Sales and Inventory Optimization
 ============================================
 
 Project Overview
