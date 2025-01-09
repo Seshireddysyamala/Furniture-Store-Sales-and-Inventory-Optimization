@@ -8,6 +8,8 @@ This project focuses on analyzing the sales, profitability, and inventory manage
 
 Using Tableau for data visualization and forecasting, this project delivers actionable insights to help the retailer improve profitability, streamline inventory management, and achieve sustainable growth.
 
+Dashboard Link : https://shorturl.at/SrcWr
+----------------
 Key Objectives
 --------------
 
